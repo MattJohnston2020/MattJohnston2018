@@ -1,0 +1,12 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <title>56dp</title>
+  <rect x="7" y="8" width="42" height="30" style="fill: #fff"/>
+  <rect x="10" y="41" width="36" height="2" style="fill: #98d8f4"/>
+  <rect x="13" y="46" width="30" height="2" style="fill: #caedff"/>
+  <path d="M50,5H6A2,2,0,0,0,4,7V39a2,2,0,0,0,2,2H7v3a2,2,0,0,0,2,2h1v3a2,2,0,0,0,2,2H44a2,2,0,0,0,2-2V46h1a2,2,0,0,0,2-2V41h1a2,2,0,0,0,2-2V7A2,2,0,0,0,50,5ZM43,48H13V46H43v2Zm3-5H10V41H46v2Zm3-5H7V8H49V38Z" style="fill: #006097"/>
+  <rect x="10" y="19" width="16" height="16" style="fill: #98d8f4"/>
+  <rect x="10" y="11" width="36" height="5" style="fill: #0091ca"/>
+  <rect x="31" y="19" width="15" height="3" style="fill: #0091ca"/>
+  <rect x="31" y="25" width="15" height="3" style="fill: #0091ca"/>
+  <rect x="31" y="31" width="8" height="3" style="fill: #0091ca"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56">
+  <title>56dp</title>
+  <path d="M13,41.5a4.46,4.46,0,0,1-.28,1.5H49V13H13V41.5Z" style="fill: #fff"/>
+  <g style="opacity: 0.15">
+    <rect x="15" y="24" width="16" height="16" style="fill: #acb9c2"/>
+  </g>
+  <rect x="15" y="16" width="32" height="5" style="fill: #acb9c2;opacity: 0.45"/>
+  <rect x="34" y="24" width="13" height="3" style="fill: #acb9c2;opacity: 0.45"/>
+  <rect x="34" y="30" width="13" height="3" style="fill: #acb9c2;opacity: 0.45"/>
+  <rect x="34" y="36" width="7" height="3" style="fill: #acb9c2;opacity: 0.45"/>
+  <path d="M10,12v1H6a2,2,0,0,0-2,2V41.5A4.5,4.5,0,0,0,8.5,46H50a2,2,0,0,0,2-2V12a2,2,0,0,0-2-2H12A2,2,0,0,0,10,12ZM7,41.5V16h3V41.5A1.5,1.5,0,0,1,7,41.5ZM49,43H12.72A4.46,4.46,0,0,0,13,41.5V13H49V43Z" style="fill: #acb9c2;opacity: 0.45"/>
+  <path d="M7,16h3a0,0,0,0,1,0,0V41.5A1.5,1.5,0,0,1,8.5,43h0A1.5,1.5,0,0,1,7,41.5V16a0,0,0,0,1,0,0Z" style="fill: #acb9c2;opacity: 0.15"/>
+</svg>

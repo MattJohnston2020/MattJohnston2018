@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="230" height="230" viewBox="0 0 230 230">
+  <title>230dp</title>
+  <rect x="64" y="95" width="102" height="53" style="fill: #fff"/>
+  <rect x="97" y="132.3" width="4" height="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="129" y="132.3" width="4" height="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="101" y="128.3" width="4" height="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="125" y="128.3" width="4" height="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="105" y="124.3" width="20" height="4" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <path d="M64,80V92H166V80H64Zm6,8.3a2,2,0,1,1,2-2A2,2,0,0,1,70,88.3Zm7.5,0a2,2,0,1,1,2-2A2,2,0,0,1,77.5,88.3Zm7.5,0a2,2,0,1,1,2-2A2,2,0,0,1,85,88.3Z" style="fill: #acb9c2;opacity: 0.15000000596046448;isolation: isolate"/>
+  <circle cx="70" cy="86.3" r="2" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <circle cx="77.5" cy="86.3" r="2" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <circle cx="85" cy="86.3" r="2" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <path d="M169,92h0V79.3a2.21,2.21,0,0,0-2-2.3H63a2.35,2.35,0,0,0-2,2.3v70a1.71,1.71,0,0,0,1.8,1.7H167a1.79,1.79,0,0,0,2-1.5V95h0V92ZM64,80H166V92H64V80Zm102,68H64V95H166v53Z" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="98" y="108.3" width="6" height="6" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+  <rect x="126" y="108.3" width="6" height="6" style="fill: #acb9c2;opacity: 0.45;isolation: isolate"/>
+</svg>

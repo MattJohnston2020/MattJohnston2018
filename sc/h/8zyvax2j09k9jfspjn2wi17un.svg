@@ -1,0 +1,107 @@
+<svg version="1.1" id="school-ghost-images" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    path {
+      visibility: hidden;
+    }
+
+     /**
+     * NOTE: All media queries are 8px less than the image size,
+     * due to the 4px + 4px borders on ghost entities.
+     */
+    @media (max-width: 24px) {
+      .school-ghost-32 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 25px) and (max-width: 32px) {
+      .school-ghost-40 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 33px) and (max-width: 40px) {
+      .school-ghost-48 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 41px) and (max-width: 48px) {
+      .school-ghost-56 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 49px) and (max-width: 64px) {
+      .school-ghost-72 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 65px) and (max-width: 80px) {
+      .school-ghost-88 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 81px) {
+      .school-ghost-104 {
+        visibility: visible;
+      }
+    }
+  </style>
+
+  <symbol id="school-ghost-32" viewBox="0 0 32 32">
+    <path class="school-ghost-32" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M23,16v-2.95c-0.001-0.484-0.281-0.925-0.72-1.13L16,9l-6.28,2.92
+		C9.281,12.125,9.001,12.566,9,13.05V16h2v2h-1c-0.552,0-1,0.448-1,1v4h14v-4c0-0.552-0.448-1-1-1h-1v-2H23z M11,21h10v-1H11V21z
+		 M13,18h2v-2h-2V18z M17,18h2v-2h-2V18z M11,14v-0.61l5-2.32l5,2.33V14H11z"/>
+  </symbol>
+
+  <symbol id="school-ghost-40" viewBox="0 0 40 40">
+    <path class="school-ghost-40" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M28,19v-3.387c-0.001-0.484-0.281-0.925-0.72-1.13L20,11l-7.28,3.483
+		c-0.439,0.205-0.719,0.646-0.72,1.13V19h2v3h-1c-0.552,0-1,0.448-1,1v5h16v-5c0-0.552-0.448-1-1-1h-1v-3H28z M14,26h12v-2H14V26z
+		 M16,22h3v-3h-3V22z M21,22h3v-3h-3V22z M14,17v-1.11l6-2.82l6,2.83V17H14z"/>
+  </symbol>
+
+  <symbol id="school-ghost-48" viewBox="0 0 48 48">
+    <path class="school-ghost-48" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M25.25,19c0,0.69-0.56,1.25-1.25,1.25s-1.25-0.56-1.25-1.25
+		s0.56-1.25,1.25-1.25S25.25,18.31,25.25,19z M31,23v4h1c0.552,0,1,0.448,1,1v5H15v-5c0-0.552,0.448-1,1-1h1v-4h-2v-3.26
+		c0-0.452,0.245-0.869,0.64-1.09L24,14l8.36,4.64c0.398,0.223,0.643,0.644,0.64,1.1V23H31z M17,31h14v-2H17V31z M19,27h2v-4h-2V27z
+		 M23,27h2v-4h-2V27z M27,27h2v-4h-2V27z M31,21v-1l-7-3.86L17,20v1H31z"/>
+  </symbol>
+
+  <symbol id="school-ghost-56" viewBox="0 0 56 56">
+    <path class="school-ghost-56" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M29.65,21c0,0.911-0.739,1.65-1.65,1.65s-1.65-0.739-1.65-1.65
+		s0.739-1.65,1.65-1.65S29.65,20.089,29.65,21z M38,26v6h0.46c0.851,0,1.54,0.689,1.54,1.54V39H16v-5.5c0-0.828,0.672-1.5,1.5-1.5
+		H18v-6h-2v-3.036c0-0.72,0.387-1.385,1.014-1.74L28,15l10.987,6.238C39.613,21.593,40,22.257,40,22.977V26H38z M18,37h20v-3H18V37z
+		 M20,32h4v-6h-4V32z M26,32h4v-6h-4V32z M32,32h4v-6h-4V32z M38,24v-1.25l-10-5.61l-10,5.61V24H38z"/>
+  </symbol>
+
+  <symbol id="school-ghost-72" viewBox="0 0 72 72">
+    <path class="school-ghost-72" opacity="0.55" fill="#FFFFFF" d="M38,28c0,1.104-0.896,2-2,2s-2-0.896-2-2s0.896-2,2-2S38,26.896,38,28z M48,35v6h1.46c0.851,0,1.54,0.689,1.54,1.54V50H21
+		v-7.5c0-0.828,0.672-1.5,1.5-1.5H24v-6h-3v-5.255c0-0.911,0.495-1.75,1.293-2.189L36,20l13.708,7.563
+		C50.505,28.003,51,28.841,51,29.752V35H48z M48,44H24v3h24V44z M31,41v-6h-4v6H31z M38,41v-6h-4v6H38z M45,41v-6h-4v6H45z M48,32
+		v-1.987L36,23.39l-12,6.623V32H48z"/>
+  </symbol>
+
+  <symbol id="school-ghost-88" viewBox="0 0 88 88">
+    <path class="school-ghost-88" opacity="0.55" fill="#FFFFFF" d="M46.5,32.5c0,1.38-1.12,2.5-2.5,2.5s-2.5-1.12-2.5-2.5S42.62,30,44,30S46.5,31.12,46.5,32.5z M59,40v10h1.46
+		c0.851,0,1.54,0.689,1.54,1.54V60H26v-8.5c0-0.828,0.672-1.5,1.5-1.5H29V40h-3v-5.745c0-0.917,0.502-1.76,1.308-2.197L44,23
+		l16.693,9.062C61.498,32.499,62,33.342,62,34.259V40H59z M59,53H29v4h30V53z M38,50V40h-6v10H38z M47,50V40h-6v10H47z M56,50V40h-6
+		v10H56z M59,37v-2.487L44,26.39l-15,8.123V37H59z"/>
+  </symbol>
+
+  <symbol id="school-ghost-104" viewBox="0 0 104 104">
+    <path class="school-ghost-104" opacity="0.55" fill="#FFFFFF" d="M73,49v-6.641c0-1.29-0.709-2.475-1.846-3.084L52,29L32.846,39.272C31.709,39.881,31,41.067,31,42.356V49h4v11h-2
+		c-1.105,0-2,0.895-2,2v10h42V62c0-1.105-0.896-2-2-2h-2V49H73z M69,68H35v-4h34V68z M39,60V49h6v11H39z M49,60V49h6v11H49z M59,60
+		V49h6v11H59z M35,45v-2.487l17-9.123l17,9.123V45H35z M55,40c0,1.656-1.344,3-3,3s-3-1.344-3-3s1.344-3,3-3S55,38.344,55,40z"/>
+  </symbol>
+
+  <use x="0" y="0" xlink:href="#school-ghost-32"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-40"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-48"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-56"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-72"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-88"></use>
+  <use x="0" y="0" xlink:href="#school-ghost-104"></use>
+</svg>

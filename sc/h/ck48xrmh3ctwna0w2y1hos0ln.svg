@@ -1,0 +1,96 @@
+<svg version="1.1" id="company-ghost-images" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    path {
+      visibility: hidden;
+    }
+
+    /**
+     * NOTE: All media queries are 8px less than the image size,
+     * due to the 4px + 4px borders on ghost entities.
+     */
+    @media (max-width: 24px) {
+      .company-ghost-32 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 25px) and (max-width: 32px) {
+      .company-ghost-40 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 33px) and (max-width: 40px) {
+      .company-ghost-48 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 41px) and (max-width: 48px) {
+      .company-ghost-56 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 49px) and (max-width: 64px) {
+      .company-ghost-72 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 65px) and (max-width: 80px) {
+      .company-ghost-88 {
+        visibility: visible;
+      }
+    }
+
+    @media (min-width: 81px) {
+      .company-ghost-104 {
+        visibility: visible;
+      }
+    }
+  </style>
+
+  <symbol id="company-ghost-32" viewBox="0 0 32 32">
+    <path class="company-ghost-32" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M21,21V10c0-0.552-0.448-1-1-1h-8c-0.552,0-1,0.448-1,1v11h-1v2h12v-2H21z
+		 M19,21h-2v-2h-2v2h-2v-4h6V21z M13,16h6v-2h-6V16z M13,13h6v-2h-6V13z"/>
+  </symbol>
+
+  <symbol id="company-ghost-40" viewBox="0 0 40 40">
+    <path class="company-ghost-40" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M26,26V13c0-0.552-0.448-1-1-1H15c-0.552,0-1,0.448-1,1v13h-1v2h14v-2H26z
+		 M24,26h-3v-2h-2v2h-3v-4h8V26z M16,21h8v-3h-8V21z M16,17h8v-3h-8V17z"/>
+  </symbol>
+
+  <symbol id="company-ghost-48" viewBox="0 0 48 48">
+    <path class="company-ghost-48" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M31,32V15c0-0.552-0.448-1-1-1H18c-0.552,0-1,0.448-1,1v17h-1v2h16v-2H31z
+		 M29,32h-4v-3h-2v3h-4v-6h10V32z M19,25h10v-4H19V25z M19,20h10v-4H19V20z"/>
+  </symbol>
+
+  <symbol id="company-ghost-56" viewBox="0 0 56 56">
+    <path class="company-ghost-56" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M36,38V17.5c0-0.828-0.672-1.5-1.5-1.5h-13c-0.828,0-1.5,0.672-1.5,1.5V38
+		h-1v2h18v-2H36z M34,38h-5v-3h-2v3h-5v-8h12V38z M22,29h12v-5H22V29z M22,23h12v-5H22V23z"/>
+  </symbol>
+
+  <symbol id="company-ghost-72" viewBox="0 0 72 72">
+    <path class="company-ghost-72" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M47,49V21.5c0-0.828-0.672-1.5-1.5-1.5h-19c-0.828,0-1.5,0.672-1.5,1.5V49
+		h-2v3h26v-3H47z M44,49h-6v-4h-4v4h-6V39h16V49z M28,38h16v-7H28V38z M28,30h16v-7H28V30z"/>
+  </symbol>
+
+  <symbol id="company-ghost-88" viewBox="0 0 88 88">
+    <path class="company-ghost-88" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M57,59V27.5c0-0.828-0.672-1.5-1.5-1.5h-23c-0.828,0-1.5,0.672-1.5,1.5V59
+		h-2v3h30v-3H57z M54,59h-8v-5h-4v5h-8V47h20V59z M34,46h20v-8H34V46z M34,37h20v-8H34V37z"/>
+  </symbol>
+
+  <symbol id="company-ghost-104" viewBox="0 0 104 104">
+    <path class="company-ghost-104" opacity="0.55" fill="#FFFFFF" style="fill-rule:evenodd;clip-rule:evenodd;" d="M68,70V32c0-1.105-0.895-2-2-2H38c-1.105,0-2,0.895-2,2v38h-2v4h36v-4H68z
+		 M64,70H54v-6h-4v6H40V56h24V70z M40,54h24v-9H40V54z M40,43h24v-9H40V43z"/>
+  </symbol>
+
+  <use x="0" y="0" xlink:href="#company-ghost-32"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-40"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-48"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-56"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-72"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-88"></use>
+  <use x="0" y="0" xlink:href="#company-ghost-104"></use>
+</svg>
