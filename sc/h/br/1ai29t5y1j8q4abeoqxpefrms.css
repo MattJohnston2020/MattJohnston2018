@@ -6,8 +6,8 @@
 @media print {
     .pgbreak {page-break-after: always;}
     .pv-top-card-v2-section__profile-photo-container {float: right!important; margin: -80px 5px!important;}
-    ul.jobs-nav span {font-size: 12px!important;}
-    .jobs-nav {margin:0px!important;padding-left:5px!important;}
+    ul.jobs-nav span {font-size: 11px!important;}
+    .jobs-nav {margin:0px!important;padding-left:6px!important;}
 }
 a,hr {
     padding: 0
